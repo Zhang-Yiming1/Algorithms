@@ -15,3 +15,5 @@
 
 2020-2-24/25/26, Leetcode，题号79, 刷一道数组的题目，难度中等, [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 
+2020-3-4, Leetcode，题号剑指 Offer 03，难度简单 ： [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
+
